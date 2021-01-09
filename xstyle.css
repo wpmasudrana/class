@@ -1,0 +1,175 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main-div{
+  
+    width: 40%;
+    margin: 40px auto;
+   
+}
+h1 {
+    color: #07076b;
+    margin: 20px 0;
+}
+/* Bangladesh flag css is here */
+.bangladesh{
+    background-color: #0a4015;
+    width: 379px;
+    height: 220px;
+    text-align: center;
+}
+.red-circle{
+    height: 150px;
+    width: 150px;
+    background: red;
+    display: inline-block;
+    border-radius: 50%;
+    margin-top: 35px;
+}
+/* Japan flag css is here */
+.japan{
+    background-color: #f2f7f1;
+    width: 379px;
+    height: 220px;
+    text-align: center;
+    border: 1px solid black;
+}
+.red-part{
+    height: 150px;
+    width: 150px;
+    background: red;
+    display: inline-block;
+    border-radius: 50%;
+    margin-top: 35px;
+}
+/* Indonesia flag css is here */
+.indonesia{
+    background-color: #fef8f8;
+    width: 379px;
+    height: 220px;
+    border: 1px solid black;
+   
+}
+.upper-part{
+    height: 50%;
+    background: red;
+}
+
+/* Sweeden flag css is here */
+.sweeden{
+    background-color: #dcda23;
+    width: 379px;
+    height: 220px;
+}
+.div1{
+    width: 50px;
+    height: 90px;
+    display: inline-block;
+    margin-right: 35px;
+    background-color:#022602;
+}
+.div2{
+    width: 290px;
+    height: 90px;
+    background-color:#022602;
+    display: inline-block;
+}
+.div3{
+    width: 50px;
+    height: 90px;
+    display: inline-block;
+    margin-right: 35px;
+    background-color:#022602;
+}
+.div4{
+    width: 290px;
+    height: 90px;
+    background-color: #022602;
+    display: inline-block;
+}
+.same-margin{
+    margin-bottom: 35px;
+}
+/* Iceland coding & css is here  */
+.iceland{
+    background-color: #f4fdff;
+    width: 379px;
+    height: 220px;
+}
+.box1{
+    width: 85px;
+    display: inline-block;
+}
+.box1 .first-top{
+    width: 85px;
+    height: 90px;
+    background: #03073a;
+    display: inline-block;
+}
+
+.box1 .first-mid{
+    width: 85px;
+    height: 40px;
+    background: #f50606;
+    display: inline-block;
+
+}
+.box1 .first-bottom{
+    width: 85px;
+    height: 90px;
+    background: #d0ae0a;
+    display: inline-block;
+}
+.box2{
+    width: 41px;
+    height: 228px;
+    background: #ea1615;
+    display: inline-block;
+}
+.box3{
+    width: 245px;
+    display: inline-block;
+}
+.box3 .top{
+    width: 245px;
+    height: 90px;
+    background: #0b17c3;
+    display: inline-block;
+}
+
+.box3 .middle{
+    width: 245px;
+    height: 40px;
+    background: #f50303;
+    display: inline-block;
+}
+.box3 .bottom{
+    width: 245px;
+    height: 90px;
+    background: #0b17c3;
+    display: inline-block;
+}
+/* Italy coding & css is here  */
+.italy{
+    width: 379px;
+    height: 220px;
+    border: 1px solid black;
+}
+.same-hw{
+    width: 33.33%;
+    height: 220px;
+    display: inline-block;
+    margin-left: -4px;
+}
+.italy .gray-div{
+    background-color: #062a06;
+    margin-left: 0px;
+}
+.italy .white-div{
+    background-color:#f7fcf6;
+
+}
+.italy .red-div{
+    background-color: #d40a0a;
+}
